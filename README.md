@@ -52,9 +52,8 @@ Mis proyectos se mostrarán aquí!!!
     </a>
 </div
 
-
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!--
 **Retrox209/Retrox209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
