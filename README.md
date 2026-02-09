@@ -9,10 +9,13 @@
 
 <h6 align="left">Hola gracias por visitar mi repositorio, espero que te encuentres bien, aquí encontraras algunos de mis proyectos</h6>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis Proyectos</b>
 <br>
 <p align="center">
-<p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre: ...<br>🎮 Gamer: ...</p>
+<p align="left">✨ Gamer apasionado...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre: ...<br>🎮 Gamer: ...</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis Proyectos</b>
+
+aquí falta algo 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Contáctame 
 
