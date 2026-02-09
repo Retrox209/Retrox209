@@ -1,11 +1,6 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
-<br clear="both">
-
 <h2 align="center">HOLA 👋 BIENVENIDO(A)</h2>
 
 <h6 align="left">Hola gracias por visitar mi repositorio, espero que te encuentres bien, aquí encontraras algunos de mis proyectos y algunas cosas sobre mi y mi trabajo como programador y gamer, serías amable de regalarme una estrella 🌟</h6>
