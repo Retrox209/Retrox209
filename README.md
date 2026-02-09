@@ -28,7 +28,7 @@
  
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-Hola+Soy+Retro,; Programador+junior,;Aquí+encontraras+mis,; Proyectos+y+actividades/Researcher,; Disfruta+El+proceso..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-Hola+Soy+Retro,; Programador+junior,;Aquí+encontraras+mis,; Proyectos+y+actividades/Researcher,; Disfruta+del+proceso..<3"></a>
 </p>
 
 <!--
