@@ -29,7 +29,9 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Retro206.Retro206&"  />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
