@@ -17,6 +17,7 @@
 <a href="mailto:retroxgame086@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
+
 <p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre: ...<br>🎮 Gamer: ...</p>
 <h2 align="left">APOYA AL CREADOR</h2>
 
