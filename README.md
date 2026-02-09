@@ -50,6 +50,16 @@ Mis proyectos se mostrarán aquí!!!
 </a>
 </p>
 
+
+        <br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+</div>
+
 <!--
 **Retrox209/Retrox209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
