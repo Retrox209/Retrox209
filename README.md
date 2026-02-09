@@ -12,9 +12,7 @@
 <h2 align="left">DATO</h2>
 
 <p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre: ...<br>🎮 Gamer: ...</p>
-<h2 align="left">APOYA AL CREADOR</h2>
-
->>Número de yape +51910471065
+<h2 align="left">CONTÁCTANOS</h2>
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
