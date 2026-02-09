@@ -45,11 +45,8 @@ Mis proyectos se mostrarán aquí!!!
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Retro206.Retro206&"  />
 </div>
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
-
-  <h2 align="center"> Mis estadísticas </h2>
+  <h2 align="center"> Mis Estadísticas</h2>
 
   <div align="center"> 
      <a href="">
@@ -61,6 +58,9 @@ Mis proyectos se mostrarán aquí!!!
 </div
 
 <br/>
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
