@@ -11,6 +11,15 @@
 
 <h2 align="left">DATO</h2>
 
+<p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre: ...<br>🎮 Gamer: ...</p>
+<h2 align="left">APOYA AL CREADOR</h2>
+
+>>Número de yape +51910471065
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
