@@ -14,6 +14,9 @@
 <p align="center">
 <p align="left">✨ Gamer apasionado...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre...<br>🎮 Gamer...</p>
 
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis Proyectos</b>
 
 Mis proyectos se mostrarán aquí!!!
