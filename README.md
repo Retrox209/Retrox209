@@ -7,7 +7,7 @@
 
 <h2 align="center">HOLA 👋 BIENVENIDO(A)</h2>
 
-<h6 align="left">Hola gracias por visitar mi repositorio, espero que te encuentres bien, aquí encontraras algunos de mis proyectos y algunas cosas sobre mi y mi trabajo como programador y gamer</h6>
+<h6 align="left">Hola gracias por visitar mi repositorio, espero que te encuentres bien, aquí encontraras algunos de mis proyectos y algunas cosas sobre mi y mi trabajo como programador y gamer, serías amable de regalarme una estrella 🌟</h6>
 
 <br>
 <p align="center">
