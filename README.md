@@ -11,13 +11,6 @@
 
 <h2 align="left">DATO</h2>
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-<a href="mailto:retroxgame086@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-
 <p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre: ...<br>🎮 Gamer: ...</p>
 <h2 align="left">APOYA AL CREADOR</h2>
 
@@ -27,7 +20,13 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-  
+ 
+<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="mailto:retroxgame086@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+ 
 <!--
 **Retrox209/Retrox209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
