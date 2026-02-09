@@ -40,7 +40,8 @@ Mis proyectos se mostrarán aquí!!!
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
