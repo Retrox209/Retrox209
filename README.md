@@ -14,6 +14,8 @@
 <p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre: ...<br>🎮 Gamer: ...</p>
 <h2 align="left">CONTÁCTANOS</h2>
 
+<h6 align="left">SÍGUENOS EN NUESTRAS REDES SOCIALES</h6>
+
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
