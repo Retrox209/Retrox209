@@ -16,16 +16,15 @@
 
 <h6 align="left">SÍGUENOS EN NUESTRAS REDES SOCIALES</h6>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
- 
 <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 <a href="mailto:retroxgame086@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
  
 <!--
 **Retrox209/Retrox209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
