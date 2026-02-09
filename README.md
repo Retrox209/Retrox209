@@ -13,7 +13,8 @@
 <br>
 <p align="center">
 <p align="left">✨ Resolviendo Bugs...<br>📚 Editor de bots...<br>🎁 Doname tengo hambre: ...<br>🎮 Gamer: ...</p>
-<h2 align="left">CONTÁCTAME</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> CONTÁCTAME</b>
+<br>
 
 <h6 align="left">SÍGUEME EN MIS REDES SOCIALES,PARA SABER MAS SOBRE MI Y MI TRABAJO COMO PROGRAMADOR Y GAMER</h6>
 
