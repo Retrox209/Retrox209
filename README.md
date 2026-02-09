@@ -21,6 +21,9 @@ Mis proyectos se mostrarán aquí!!!
         <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Contáctame 
 
 <h6 align="left">SÍGUEME EN MIS REDES SOCIALES,PARA SABER MAS SOBRE MI Y MI TRABAJO COMO PROGRAMADOR Y GAMER</h6>
